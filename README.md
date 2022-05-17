@@ -4,4 +4,6 @@ A "Tic Tac Toe" game is an OOP project
 
 
 ## Installation 
-To run this project please make sure you have a Visual Studio client 
+In order to run the project 
+1. Please make sure you have a Visual Studio client 
+2. Double-click the Solution and press the Start button at the top
